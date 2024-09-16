@@ -13,7 +13,7 @@ Welcome to my GitHub portfolio! I'm a **Full-Stack Developer** and **Cybersecuri
 
 - **Languages**: PHP, Python, JavaScript, HTML, CSS 
 - **Frameworks**: Laravel, Bootstrap
-- **Tools**: Git, GitHub, Docker, MySQL, Visual Studio Code
+- **Tools**: Git, GitHub, Docker, MySQL, Visual Studio Code, Wireshark
 - **Other Skills**: Networking&Computer Troubleshooting, Vulnerability Assessment & Penetration Testing, 
 
 ## 💼 Professional Experience
