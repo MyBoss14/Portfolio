@@ -4,19 +4,32 @@ Welcome to my GitHub portfolio! I'm a **Full-Stack Developer** and **Cybersecuri
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **POS system**
-- 🌱 I’m learning and exploring new technologies like **Python**
-- 💼 I have professional experience as a Technology Consultant , where I conducted Vulnerability Assessments and Penetration Testing (VAPT) based on OWASP standards.
+- 🔭 I’m currently working on **Learning C#**
+- 🌱 I’m learning and exploring new technologies like **Python, C#**
+- 💼 I have experience in VAPT based on OWASP standards and Jr. Software Developer.
 - 🎓 I recently completed a capstone project that won the **Best Capstone Project Award**—a comprehensive e-commerce platform built with Laravel and integrated with Google Teachable Machine, PayPal, Mailtrap, and Pusher.
 
 ## 🛠️ Skills & Tools
 
-- **Languages**: PHP, Python, JavaScript, HTML, CSS 
-- **Frameworks**: Laravel, Bootstrap
-- **Tools**: Git, GitHub, Docker, MySQL, Visual Studio Code, Wireshark
-- **Other Skills**: Networking&Computer Troubleshooting, Vulnerability Assessment & Penetration Testing, 
+- **Languages**:  Python, HTML, CSS, PHP
+- **Frameworks**: Laravel, 
+- **Tools**: Git, GitHub, Visual Studio Code, Wireshark, BurpSuite
+- **Other Skills**: Networking&Computer Troubleshooting, WEB VAPT, 
 
 ## 💼 Professional Experience
+
+### Junior Software Developer - **[KPMG -Philippines]**
+
+**Responsibilities:**
+- Maintain and optimize Python-based web scraping tools.
+- Monitor automated processes and troubleshoot issues.
+
+**Database Management:**
+- Use Microsoft SQL to manage and verify databases.
+
+**Learning and Development:**
+- Currently learning C# for future projects.
+
 
 ### Technology Consultant (Cybersecurity) - **[KPMG -Philippines]**
 - Conducted a 2-day VAPT based on OWASP Top 10 standards, identifying critical vulnerabilities and proposing security enhancements.
