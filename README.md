@@ -47,7 +47,6 @@ Welcome to my GitHub portfolio! I'm a **Full-Stack Developer** and **Cybersecuri
 - **Top 6** - TREND MICROL Trend University CTF 2023
 - **Cum Laude** - Mindanao State University – General Santos
 - **Jr Penetration Tester Learning Path** - TryHackMe Cybersecurity
-- **486 On-Site Hours** - Internship as a Technology Consultant in Cybersecurity
 
 ## 🗂️ Notable Projects
 
