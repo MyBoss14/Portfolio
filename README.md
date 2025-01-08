@@ -18,11 +18,11 @@ Welcome to my GitHub portfolio! I'm a **Full-Stack Developer** and **Cybersecuri
 
 ## 💼 Professional Experience
 
-### Junior Software Developer - **[KPMG -Philippines]**
+### Junior Software Developer - **[Inriver]**
 
 **Responsibilities:**
 - Maintain and optimize Python-based web scraping tools.
-- Monitor automated processes and troubleshoot issues.
+- Monitor automated processes, provide reports, and troubleshoot issues.
 
 **Database Management:**
 - Use Microsoft SQL to manage and verify databases.
@@ -31,7 +31,7 @@ Welcome to my GitHub portfolio! I'm a **Full-Stack Developer** and **Cybersecuri
 - Currently learning C# for future projects.
 
 
-### Technology Consultant (Cybersecurity) - **[KPMG -Philippines]**
+### Intern - Technology Consultant (Cybersecurity) - **[KPMG -Philippines]**
 - Conducted a 2-day VAPT based on OWASP Top 10 standards, identifying critical vulnerabilities and proposing security enhancements.
 - Delivered a successful dry run presentation on Information Security and OWASP standards.
 
