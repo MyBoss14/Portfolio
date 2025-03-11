@@ -28,8 +28,11 @@ Welcome to my GitHub portfolio! I'm a **Jr. Python Software Developer** and **Cy
 - Use Microsoft SQL to manage and verify databases.
 
 **Learning and Development:**
-- Currently learning C# for future projects.
+- Currently developing a RunCheck tool to automate the process of reporting and checking data.
 
+### Jr. Software Developer - **[Inriver - Philippines]** (current)
+- Maintain and optimize a Python-based web scraping tool, ensuring robust data extraction and processing.
+- Generate and analyze daily reports for process queues, identifying and addressing issues to maintain optimal performance.
 
 ### Intern - Technology Consultant (Cybersecurity) - **[KPMG -Philippines]**
 - Conducted a 2-day VAPT based on OWASP Top 10 standards, identifying critical vulnerabilities and proposing security enhancements.
