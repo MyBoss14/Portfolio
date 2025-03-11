@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Felmer John Araña
 
-Welcome to my GitHub portfolio! I'm a **Full-Stack Developer** and **Cybersecurity Enthusiast** with a passion for building scalable web applications and securing digital assets. I'm a **cum laude** graduated with a Bachelor of Science in Information Technology, majoring in Networking, from Mindanao State University – General Santos.
+Welcome to my GitHub portfolio! I'm a **Jr. Python Software Developer** and **Cybersecurity Enthusiast** with a passion for building scalable web applications and securing digital assets. I'm a **cum laude** graduated with a Bachelor of Science in Information Technology, majoring in Networking, from Mindanao State University – General Santos.
 
 ## 🚀 About Me
 
