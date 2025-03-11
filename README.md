@@ -18,7 +18,7 @@ Welcome to my GitHub portfolio! I'm a **Jr. Python Software Developer** and **Cy
 
 ## 💼 Professional Experience
 
-### Junior Software Developer - **[Inriver]** (current)
+\#### Junior Software Developer - **[Inriver]** (current)
 
   **Responsibilities:**
   - Maintain and optimize a Python-based web scraping tool, ensuring robust data extraction and processing.
@@ -30,11 +30,11 @@ Welcome to my GitHub portfolio! I'm a **Jr. Python Software Developer** and **Cy
   **Learning and Development:**
   - Currently developing a RunCheck tool to automate the process of reporting and checking data.
 
-### Intern - Technology Consultant (Cybersecurity) - **[KPMG -Philippines]**
+\#### Intern - Technology Consultant (Cybersecurity) - **[KPMG -Philippines]**
 - Conducted a 2-day VAPT based on OWASP Top 10 standards, identifying critical vulnerabilities and proposing security enhancements.
 - Delivered a successful dry run presentation on Information Security and OWASP standards.
 
-### Full-Stack Developer (Capstone Project)
+\#### Full-Stack Developer (Capstone Project)
 - Developed an award-winning e-commerce platform with features like cart management, order tracking, and real-time messaging.
 - Integrated Google Teachable Machine for managing the upload products.
 - Implemented admin functionalities for comprehensive web management, including product, user, and category management.
